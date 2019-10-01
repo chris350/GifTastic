@@ -1,6 +1,6 @@
 var buttons = ['Friday the 13th', 'Nightmare on Elm street', 'Scream', 'Texas Chainsaw Massacre', 'Childs play', 'Halloween', 'Hell raiser'];
 const API_KEY = 'h5C4IYHKwH3EZ961cj0t1HgNtFOx1Eru';
-const endpoint = 'http://api.giphy.com/v1/gifs/search?api_key=h5C4IYHKwH3EZ961cj0t1HgNtFOx1Eru';
+const endpoint = 'https://api.giphy.com/v1/gifs/search?api_key=h5C4IYHKwH3EZ961cj0t1HgNtFOx1Eru';
 let favorites = [];
 let previousSearch = [];
 
