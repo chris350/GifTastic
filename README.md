@@ -21,4 +21,4 @@ Theme for the project is popular horror movies, there you will generate buttons 
 [Have fun with making gif's](https://chris350.github.io/GifTastic/)
 
 ### Authors
-For Contribution history check [here](https://github.com/pshegde123/GifTastic.github.io/graphs/contributors)
+For Contribution history check [here](https://github.com/chris350/GifTastic/graphs/contributors)
