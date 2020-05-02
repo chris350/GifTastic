@@ -18,6 +18,8 @@ Theme for the project is popular horror movies, there you will generate buttons 
 (1) Click on any button shown on the page, related gif's will be retrieved using Giphy API and will be displayed in the panel below buttons.
 (2) If you wish to add your button, enter the category/person/theme name in the text box shown on page and click `Submit` button, a new button will be added to the page.
 
+![](images/gif.PNG)
+
 [Have fun with making gif's](https://chris350.github.io/GifTastic/)
 
 ### Authors
